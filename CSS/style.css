@@ -19,6 +19,10 @@
 .main-header{
     display: flex;
     background-color: rgb(116, 113, 113);
-    color: white;
+    color: rgb(116, 113, 113);
     padding: 20px 40px;
+}
+
+.main-footer {
+    background-color: grey;
 }
